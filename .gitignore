@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 *~
 *.beam
+=======
+.eunit
+deps
+*.o
+*.beam
+*.plt
+erl_crash.dump
+>>>>>>> c27d004016dfb36270f8ee8da45f3648236d545f
